@@ -1,1 +1,2 @@
-sudo chmod -R +111 */
+#!/bin/bash
+chmod --reference=olleh hello
